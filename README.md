@@ -1,5 +1,10 @@
 # Amnesia: A Machine for Pigs Finnish Localization Mod
 
+[![License](https://img.shields.io/github/license/AceHanded/AAMFP-Finnish-Localization-Mod?style=for-the-badge)](https://github.com/AceHanded/AAMFP-Finnish-Localization-Mod/blob/main/LICENSE)
+[![NexusMods](https://img.shields.io/badge/Nexus_Mods-v1.0.1-orange?style=for-the-badge&logo=nexusmods)](https://www.nexusmods.com/amnesiaamachineforpigs/mods/2)
+[![GitHubStars](https://img.shields.io/github/stars/AceHanded/AAMFP-Finnish-Localization-Mod?style=for-the-badge&logo=github&labelColor=black)](https://github.com/AceHanded/AAMFP-Finnish-Localization-Mod)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acehand)
+
 <img src="https://raw.githubusercontent.com/AceHanded/AAMFP-Finnish-Localization-Mod/main/Images/MenuShowcase.png" alt="menushowcase" width="400"/>
 <img src="https://raw.githubusercontent.com/AceHanded/AAMFP-Finnish-Localization-Mod/main/Images/IntroShowcase.png" alt="introshowcase" width="400"/>
 <img src="https://raw.githubusercontent.com/AceHanded/AAMFP-Finnish-Localization-Mod/main/Images/HintShowcase.png" alt="hintshowcase" width="400"/>
